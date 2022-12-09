@@ -1,0 +1,15 @@
+C:\g_b_test\UntitledWorkSpace\Example\38\bin\Debug\net7.0\38.exe
+C:\g_b_test\UntitledWorkSpace\Example\38\bin\Debug\net7.0\38.deps.json
+C:\g_b_test\UntitledWorkSpace\Example\38\bin\Debug\net7.0\38.runtimeconfig.json
+C:\g_b_test\UntitledWorkSpace\Example\38\bin\Debug\net7.0\38.dll
+C:\g_b_test\UntitledWorkSpace\Example\38\bin\Debug\net7.0\38.pdb
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.csproj.AssemblyReference.cache
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.AssemblyInfoInputs.cache
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.AssemblyInfo.cs
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.csproj.CoreCompileInputs.cache
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.dll
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\refint\38.dll
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.pdb
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\38.genruntimeconfig.cache
+C:\g_b_test\UntitledWorkSpace\Example\38\obj\Debug\net7.0\ref\38.dll
